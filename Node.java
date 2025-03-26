@@ -1,3 +1,5 @@
+//Trabalho de Bryan Strey, Victor Luis
+
 class Node {
     int valor;
     Node proximo;
