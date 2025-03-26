@@ -1,3 +1,5 @@
+//Trabalho de Bryan Strey, Victor Luis
+
 class FilaEncadeada {
     private Node primeiro;
     private Node ultimo;
